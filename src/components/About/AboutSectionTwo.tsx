@@ -31,7 +31,7 @@ const AboutSectionTwo = () => {
                   Objective
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Our project's primary goal is to develop a robust, real-time
+                  Our project&#39;s primary goal is to develop a robust, real-time
                   gesture recognition system that naturally responds to human
                   gestures using advanced machine learning algorithms. This
                   system aims to revolutionize our interaction with machines,
@@ -46,7 +46,7 @@ const AboutSectionTwo = () => {
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
                   The potential applications of our research are extensive. Our
-                  technology's ability to accurately recognize dual-hand
+                  technology&#39;s ability to accurately recognize dual-hand
                   gestures paves the way for more intuitive control systems,
                   enhancing the quality of life for amputees. It also offers new
                   possibilities in virtual reality and gaming, allowing users to
