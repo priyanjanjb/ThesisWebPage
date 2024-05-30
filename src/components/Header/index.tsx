@@ -72,6 +72,9 @@ const Header = () => {
                 />
               </Link>
             </div>
+            <div>
+              
+            </div>
             <div className="flex w-full justify-between px-4">
               <div>
                 <button
