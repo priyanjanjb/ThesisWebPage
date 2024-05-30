@@ -12,10 +12,6 @@ export const metadata: Metadata = {
 const ModelPage = () => {
   return (
     <>
-      <Breadcrumb
-        pageName="Model Page"
-        description="About the model we developed"
-      />
       <Video />
     </>
   );

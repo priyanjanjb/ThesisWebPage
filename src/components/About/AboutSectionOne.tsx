@@ -24,31 +24,25 @@ const AboutSectionOne = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="About"
-                paragraph="The main thrust is to focus on educating attendees on the transformative potential of dual 
-                hand gesture recognition using sEMG signals and machine learning algorithms. The workshop will provide
-                a comprehensive overview of the technology, its applications, and the future of human-computer interaction."
+                title="About Our Project"
+                paragraph="This research focuses on significantly enhancing human-computer interaction by utilizing advanced surface 
+                electromyography (sEMG) technology for dual-hand gesture recognition. Our novel approach relies on a powerful neural 
+                network model that detects and classifies complex muscle activities in hand gestures, enabling a seamless and intuitive user experience."
                 mb="44px"
               />
 
-              <div
+              {/* <div
                 className="mb-12 max-w-[570px] lg:mb-0"
                 data-wow-delay=".15s"
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Advanced Gesture Recognition Technology" />
-                    <List text="Prosthetics and Assistive Technologies" />
-                    <List text="Robotics and Automation" />
-                  </div>
-
-                  <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Virtual Reality (VR) and Gaming" />
-                    <List text="Rich documentation" />
-                    <List text="Developer friendly" />
+                    <List text="Objective" />
+                    <List text="Significance of Research and Applications" />
+                    <List text="Our Approach" />
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
 
             <div className="w-full px-4 lg:w-1/2">

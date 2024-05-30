@@ -4,6 +4,7 @@ import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import ThemeToggler from "./ThemeToggler";
 import menuData from "./menuData";
+import Image from "next/image";
 
 const Header = () => {
   // Navbar toggle
@@ -48,33 +49,27 @@ const Header = () => {
       >
         <div className="container">
           <div className="relative mx-2 flex items-center ">
-            <div className="w-60 max-w-full px-4 xl:mr-12">
+            <div className="w-60 max-w-full px-20 xl:mr-12">
               <Link
                 href="/"
                 className={`header-logo block w-full ${
                   sticky ? "py-5 lg:py-2" : "py-8"
                 } `}
               >
-                {/* <Image
-                  src="/images/logo/LOGO.jpeg"
+                <Image
+                  src="/images/logo/blcka-02.svg"
                   alt="logo"
-                  width={50}
-                  height={30}
+                  width={20}
+                  height={20}
                   className="w-full dark:hidden"
-                /> */}
-                <h3>
-                  {" "}
-                  <b>
-                    <i>LOGO</i>
-                  </b>{" "}
-                </h3>
-                {/* <Image
-                  src="/images/logo/logo.svg"
+                />
+                <Image
+                  src="/images/logo/blcka-01.svg"
                   alt="logo"
-                  width={50}
-                  height={30}
+                  width={20}
+                  height={20}
                   className="hidden w-full dark:block"
-                /> */}
+                />
               </Link>
             </div>
             <div className="flex w-full justify-between px-4">

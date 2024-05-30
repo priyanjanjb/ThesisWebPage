@@ -28,34 +28,57 @@ const AboutSectionTwo = () => {
             <div className="max-w-[470px]">
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Advanced Gesture Recognition Technology
+                  Objective
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Our research on dual hand gesture recognition provides a
-                  cutting-edge solution for various industries. This technology
-                  is particularly beneficial for startups, SaaS, and business
-                  applications aiming to integrate advanced human-computer
-                  interaction.
+                  Our project's primary goal is to develop a robust, real-time
+                  gesture recognition system that naturally responds to human
+                  gestures using advanced machine learning algorithms. This
+                  system aims to revolutionize our interaction with machines,
+                  making technology more accessible and easier to use,
+                  particularly in fields such as prosthetics, robotics, and
+                  virtual reality.
                 </p>
               </div>
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Prosthetics and Assistive Technologies
+                  Significance of Research and Applications
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Our models enhance the functionality and user experience of
-                  prosthetic devices, providing more accurate and responsive
-                  control through sEMG-based gesture recognition.
+                  The potential applications of our research are extensive. Our
+                  technology's ability to accurately recognize dual-hand
+                  gestures paves the way for more intuitive control systems,
+                  enhancing the quality of life for amputees. It also offers new
+                  possibilities in virtual reality and gaming, allowing users to
+                  interact with digital environments more naturally and
+                  engagingly. Moreover, the technology holds significant
+                  implications for future human-machine interfaces and robotics.
                 </p>
               </div>
               <div className="mb-1">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Virtual Reality (VR) and Gaming
+                  Our Approach
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Elevate the user experience in VR and gaming by integrating
-                  precise dual hand gesture recognition, enabling more immersive
-                  and interactive environments.
+                  We utilize deep learning models, specifically Convolutional
+                  Neural Networks (CNNs) and Recurrent Neural Networks (RNNs),
+                  to process the spatial and temporal data from sEMG signals.
+                  The NinaPro DB1 database, a comprehensive dataset of hand
+                  gestures, serves as the foundation for training, fine-tuning,
+                  and testing our models. This ensures our system is innovative
+                  and grounded in rigorous scientific research.
+                </p>
+              </div>
+              <div className="mb-1">
+                <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+                  Looking Forward
+                </h3>
+                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
+                  As we continue to refine our models and expand our research,
+                  we remain dedicated to pushing the boundaries of gesture
+                  recognition technology. Our goal is to develop more adaptive,
+                  responsive, and user-friendly systems that can transform how
+                  we interact with the digital world.
                 </p>
               </div>
             </div>

@@ -12,10 +12,6 @@ export const metadata: Metadata = {
 const AboutPage = () => {
   return (
     <>
-      <Breadcrumb
-        pageName="Meet the Team"
-        description="This is the team behind the project."
-      />
       <Testimonials />
       
     </>

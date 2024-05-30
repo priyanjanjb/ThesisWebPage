@@ -9,14 +9,9 @@ const Features = () => {
         <div className="container">
           <SectionTitle
             title="Key Features"
-            paragraph="This project on sEMG-based dual hand 
-            gesture recognition features a novel hybrid machine learning 
-            model that combines Convolutional Neural Networks (CNNs) and 
-            Gated Recurrent Units (GRUs). This model effectively utilizes the extensive 
-            hand gesture data from the NinaPro DB1 database to achieve up to 85% accuracy in 
-            recognizing complex dual hand gestures. The approach enhances the potential for 
-            more intuitive and functional human-computer interactions, particularly in robotics 
-            and prosthetics."
+            paragraph="Ours is a sEMG technology-based system that employs advanced machine learning algorithms to deliver a state-of-the-art 
+            solution for interpreting complex human gestures. All this technology integration allows the interaction of humans and machines to 
+            unlock new potentials in various fields, both dominant and emerging. Here are the enhanced vital features that distinguish our system."
             center
           />
 
