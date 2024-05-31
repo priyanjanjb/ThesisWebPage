@@ -1,4 +1,4 @@
-import { Testimonial } from "@/types/testimonial";
+import { Testimonial ,Supervisors } from "@/types/testimonial";
 import Image from "next/image";
 const starIcon = (
   <svg width="18" height="16" viewBox="0 0 18 16" className="fill-current">
@@ -6,9 +6,9 @@ const starIcon = (
   </svg>
 );
 
-const Teammember = ({ testimonial }: { testimonial: Testimonial }) => {
+const SingleTestimonial = ({ supervisor }: { supervisor: Supervisors }) => {
   //pass content to testimonial
-  const { name, image, designation } = testimonial;
+  const { name, image, designation } = supervisor;
 
   return (
     <div className="w-full">
@@ -33,4 +33,4 @@ const Teammember = ({ testimonial }: { testimonial: Testimonial }) => {
   );
 };
 
-export default Teammember;
+export default SingleTestimonial;
