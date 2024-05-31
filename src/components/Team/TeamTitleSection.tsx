@@ -3,7 +3,7 @@ import { useState } from "react";
 import { Supervisors, Testimonial } from "@/types/testimonial";
 import { use } from "react";
 import SingleTestimonial from "./SingleTestimonial";
-import SingleSupervisor from "./supervisors";
+import SingleSupervisor from "./Supervisors";
 
 const TeamTitleSection = ({
   title,
@@ -29,7 +29,7 @@ const TeamTitleSection = ({
   }
   function handle2() {
     setActive("supervisor");
-    setView("team");      
+    setView("team");
   }
 
   const testimonialData: Testimonial[] = [
@@ -100,13 +100,14 @@ const TeamTitleSection = ({
         <div>
           {view === "team" && (
             <h2 className="mb-4 text-3xl font-bold !leading-tight text-black dark:text-white sm:text-4xl md:text-[45px]">
-              <button className="opacity-60 transition hover:opacity-100 dark:opacity-50 dark:hover:opacity-100" onClick={handle1}>
+              <button
+                className="opacity-60 transition hover:opacity-100 dark:opacity-50 dark:hover:opacity-100"
+                onClick={handle1}
+              >
                 {title}
               </button>
               <button onClick={handle2}>
-                <span>
-                  {title2}
-                </span>
+                <span>{title2}</span>
               </button>
             </h2>
           )}

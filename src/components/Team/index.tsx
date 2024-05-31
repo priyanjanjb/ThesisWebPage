@@ -1,4 +1,4 @@
-import { Testimonial, Supervisors } from "@/types/testimonial";
+
 import TeamTitleSection from "@/components/Team/TeamTitleSection";
 
 const Testimonials = () => {
