@@ -32,19 +32,6 @@ const AboutSectionOne = () => {
                 and intuitive user experience, enhancing the natural interaction between humans and digital systems."
                 mb="44px"
               />
-
-              {/* <div
-                className="mb-12 max-w-[570px] lg:mb-0"
-                data-wow-delay=".15s"
-              >
-                <div className="mx-[-12px] flex flex-wrap">
-                  <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Objective" />
-                    <List text="Significance of Research and Applications" />
-                    <List text="Our Approach" />
-                  </div>
-                </div>
-              </div> */}
             </div>
 
             <div className="w-full px-4 lg:w-1/2">

@@ -90,7 +90,7 @@ const TeamTitleSection = ({
                 {title}
               </button>
               <button onClick={handle2}>
-                <span className="opacity-60 transition hover:opacity-100 dark:opacity-50 dark:hover:opacity-100">
+                <span className="opacity-60 transition hover:opacity-100 dark:opacity-20 dark:hover:opacity-100">
                   {title2}
                 </span>
               </button>

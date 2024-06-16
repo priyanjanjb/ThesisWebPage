@@ -13,11 +13,12 @@ const Video = () => {
     <section className="relative z-10 py-16 md:py-20 lg:py-28">
       <div className="container">
         <SectionTitle
-          title="Simple demostration"
-          paragraph="Our expert team is ready to assist with advanced sEMG-based 
-          gesture recognition solutions. We offer specialized support to help 
-          integrate our neural network models into your applications, ensuring 
-          that your interaction systems achieve the highest accuracy and efficiency."
+          title="Simple Demonstration"
+          paragraph="Our team of specialists is ready to support your advanced sEMG-based gesture recognition 
+          needs. We ensure seamless integration of our neural network models into your systems, aiming for 
+          unmatched accuracy and efficiency. Highlighting our capabilities, we recently showcased two distinct 
+          applications: one for drone control and another for video manipulation, both uniquely driven by our 
+          dual hand gesture recognition technology."
           center
           mb="80px"
         />
