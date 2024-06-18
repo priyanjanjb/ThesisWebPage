@@ -3,10 +3,10 @@ const AboutSectionTwo = () => {
   return (
     <section className="py-16 md:py-20 lg:py-28">
       <div className="container">
-        <div className="-mx-4 flex flex-wrap items-center">
-          <div className="w-full px-4 lg:w-1/2">
+        <div className="-mx-2  flex flex-wrap items-start">
+          <div className="relative w-full px-4 lg:w-1/2">
             <div
-              className="sticky top-0 mx-auto mb-12 aspect-[25/24] max-w-[500px] text-center lg:m-0"
+              className=" sticky top-0 mx-auto mb-auto aspect-[25/24] max-w-[500px] text-center lg:m-0"
               data-wow-delay=".15s"
             >
               <Image
@@ -31,13 +31,12 @@ const AboutSectionTwo = () => {
                   Objective
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Our project&#39;s primary goal is to develop a robust,
-                  real-time gesture recognition system that naturally responds
-                  to human gestures using advanced machine learning algorithms.
-                  This system aims to revolutionize our interaction with
-                  machines, making technology more accessible and easier to use,
-                  particularly in fields such as prosthetics, robotics, and
-                  virtual reality.
+                  Our project&#39;s primary goal is to develop a robust, gesture
+                  recognition system that naturally responds to human gestures
+                  using advanced machine learning algorithms. This system aims
+                  to revolutionize our interaction with machines, making
+                  technology more accessible and easier to use, particularly in
+                  fields such as prosthetics, robotics, and virtual reality.
                 </p>
               </div>
               <div className="mb-9">

@@ -14,11 +14,7 @@ const Video = () => {
       <div className="container">
         <SectionTitle
           title="Simple Demonstration"
-          paragraph="Our team of specialists is ready to support your advanced sEMG-based gesture recognition 
-          needs. We ensure seamless integration of our neural network models into your systems, aiming for 
-          unmatched accuracy and efficiency. Highlighting our capabilities, we recently showcased two distinct 
-          applications: one for drone control and another for video manipulation, both uniquely driven by our 
-          dual hand gesture recognition technology."
+          paragraph=""
           center
           mb="80px"
         />
@@ -30,7 +26,7 @@ const Video = () => {
               data-wow-delay=".15s"
             >
               <div className="relative aspect-[77/40] items-center justify-center">
-                <Image src="/images/video/video.jpeg" alt="video image" fill />
+                <Image src="/images/video/video.png" alt="video image" fill />
                 <div className="absolute right-0 top-0 flex h-full w-full items-center justify-center">
                   <button
                     aria-label="video play button"
@@ -58,7 +54,7 @@ const Video = () => {
         autoplay={true}
         start={true}
         isOpen={isOpen}
-        videoId="oH1JQBUE5ys"
+        videoId="4T_F2eYj-Kc"
         onClose={() => setOpen(false)}
       />
       <div className="absolute bottom-0 left-0 right-0 z-[-1] h-full w-full bg-[url(/images/video/shape.svg)] bg-cover bg-center bg-no-repeat"></div>

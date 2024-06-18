@@ -28,16 +28,16 @@ const AboutSectionOne = () => {
                 paragraph="This research aims to significantly advance human-computer interaction by leveraging 
                 cutting-edge surface electromyography (sEMG) technology for dual-hand gesture recognition. Our 
                 innovative approach utilizes a sophisticated neural network model designed to detect and classify 
-                complex muscle activities in hand gestures, achieving an accuracy of 85%. This enables a seamless 
+                complex muscle activities in hand gestures, achieving an accuracy of 99%. This enables a seamless 
                 and intuitive user experience, enhancing the natural interaction between humans and digital systems."
                 mb="44px"
               />
             </div>
 
             <div className="w-full px-4 lg:w-1/2">
-              <div className="relative mx-auto aspect-[25/24] max-w-[500px] lg:mr-0">
+              <div className="relative mx-auto aspect-[55/24] max-w-[600px] lg:mr-0">
                 <Image
-                  src="/images/about/emg.jpeg"
+                  src="/images/about/projectmage.jpg"
                   alt="about-image"
                   fill
                   className="mx-auto max-w-full drop-shadow-three dark:hidden dark:drop-shadow-none lg:mr-0"

@@ -1,4 +1,3 @@
-
 import TeamTitleSection from "@/components/Team/TeamTitleSection";
 
 const Testimonials = () => {
@@ -8,7 +7,7 @@ const Testimonials = () => {
         <TeamTitleSection
           title="Meet Our Team/"
           title2="Supervisors"
-          paragraph="Welcome to the future"
+          paragraph=""
           center
         />
       </div>
