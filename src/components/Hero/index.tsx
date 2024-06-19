@@ -24,8 +24,7 @@ const Hero = () => {
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
                   Explore our groundbreaking approach to gesture recognition
                   that combines advanced neural networks with precise sEMG
-                  technology to interpret complex dual-hand gestures in
-                  real-time
+                  technology to interpret complex dual-hand gestures.
                 </p>
               </div>
             </div>

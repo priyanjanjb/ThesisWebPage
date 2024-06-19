@@ -22,6 +22,7 @@ const AboutSectionTwo = () => {
                 fill
                 className="sticky hidden drop-shadow-three dark:block dark:drop-shadow-none"
               />
+              
             </div>
           </div>
           <div className="w-full px-4 lg:w-1/2">
