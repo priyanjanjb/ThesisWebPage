@@ -26,17 +26,12 @@ This web application is designed to demonstrate my research project, which explo
 
 ## Features
 
-- Demonstrates a neural network-based system for detecting dual hand gestures.
 - Provides detailed insights into the research methodology and findings.
 - Includes a video demonstration explaining the system's functionality.
 
 ## Technologies Used
 
 - **Next.js**: Framework for building the web application.
-- **React**: JavaScript library for building user interfaces.
-- **Neural Networks**: Machine learning models for gesture recognition.
-- **Surface Electromyography (sEMG)**: Technology used to collect muscle signal data.
-- **CSS / Sass**: For styling the web application.
 
 ## Installation
 
