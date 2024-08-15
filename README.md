@@ -1,61 +1,49 @@
-# Startup - Free Next.js Startup Website Template
+# A Neural Network Approach for Detecting Combined Dual Hand Gestures Based on Surface Electromyography Signals
 
-Startup free, open-source, and premium-quality startup website template for Next.js comes with everything you need to launch a startup, business, or SaaS website, including all essential sections, components, and pages.
+This project is a web application used to demonstrate my research on detecting combined dual hand gestures using surface electromyography (sEMG) signals and neural networks. The application provides an in-depth look at how machine learning techniques can be applied to recognize complex hand gestures through sEMG data, with potential applications in fields such as prosthetics, rehabilitation, and human-computer interaction.
 
-If you're looking for a high-quality and visually appealing, feature-rich Next.js Template for your next startup, SaaS, or business website, this is the perfect choice and starting point for you!
+## Table of Contents
 
-### ✨ Key Features
-- Crafted for Startup and SaaS Business
-- Next.js and Tailwind CSS
-- All Essential Business Sections and Pages
-- High-quality and Clean Design
-- Dark and Light Version
-- TypeScript Support
-and Much More ...
+- [Project Description](#project-description)
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-### 🙌 Detailed comparison between the Free and Pro versions of Startup
+## Project Description
 
-| Feature             | Free | Pro |
-|---------------------|------------|----------|
-| Next.js Landing Page             | ✅ Yes      | ✅ Yes      |
-| All The Integrations - Auth, DB, Payments, Blog and many more ...             | ❌ No      | ✅ Yes |
-| Homepage Variations             | 1      | 2 |
-| Additional SaaS Pages and Components             | ❌ No      | ✅ Yes |
-| Functional Blog with Sanity       | ❌ No      | ✅ Yes | ✅ Yes |
-| Use with Commercial Projects            | ✅ Yes      | ✅ Yes      |
-| Lifetime Free Updates             | ✅ Yes      | ✅ Yes |
-| Email Support       | ❌ No         | ✅ Yes       |
-| Community Support         | ✅ Yes         | ✅ Yes       |
+This web application is designed to demonstrate my research project, which explores a neural network-based approach to detecting combined dual hand gestures using surface electromyography signals. The website includes a demonstration video that explains how our system works and provides a full overview of the research, including methodology, results, and potential applications.
 
+## Demo
 
-### [🔥 Get Startup Pro](https://nextjstemplates.com/templates/saas-starter-startup)
+Watch the demonstration video to see the system in action and understand how it detects combined dual hand gestures using sEMG signals.
 
-[![Startup Pro](https://raw.githubusercontent.com/NextJSTemplates/startup-nextjs/main/startup-pro.webp)](https://nextjstemplates.com/templates/saas-starter-startup)
+![Project Screenshot](link-to-screenshot.png)
 
-Startup Pro - Expertly crafted for fully-functional, high-performing SaaS startup websites. Comes with with Authentication, Database, Blog, and all the essential integrations necessary for SaaS business sites.
+[Watch the Demo Video](link-to-video)
 
+## Features
 
-### [🚀 View Free Demo](https://startup.nextjstemplates.com/)
+- Demonstrates a neural network-based system for detecting dual hand gestures.
+- Provides detailed insights into the research methodology and findings.
+- Includes a video demonstration explaining the system's functionality.
 
-### [🚀 View Pro Demo](https://startup-pro.nextjstemplates.com/)
+## Technologies Used
 
-### [📦 Download](https://nextjstemplates.com/templates/startup)
+- **Next.js**: Framework for building the web application.
+- **React**: JavaScript library for building user interfaces.
+- **Neural Networks**: Machine learning models for gesture recognition.
+- **Surface Electromyography (sEMG)**: Technology used to collect muscle signal data.
+- **CSS / Sass**: For styling the web application.
 
-### [🔥 Get Pro](https://nextjstemplates.com/templates/saas-starter-startup)
+## Installation
 
-### [🔌 Documentation](https://nextjstemplates.com/docs)
+To set up the project locally, follow these steps:
 
-### ⚡ Deploy Now
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNextJSTemplates%2Fstartup-nextjs)
-
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/NextJSTemplates/startup-nextjs)
-
-
-### 📄 License
-Startup is 100% free and open-source, feel free to use with your personal and commercial projects.
-
-### 💜 Support
-If you like the template, please star this repository to inspire the team to create more stuff like this and reach more users like you!
-
-### ✨ Explore and Download - Free [Next.js Templates](https://nextjstemplates.com)
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/username/repo-name.git
