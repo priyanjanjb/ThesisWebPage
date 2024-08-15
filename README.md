@@ -20,11 +20,9 @@ This web application is designed to demonstrate my research project, which explo
 
 ## Demo
 
-Watch the demonstration video to see the system in action and understand how it detects combined dual hand gestures using sEMG signals.
+![screencapture-dualhandgesture-netlify-app-2024-08-15-09_13_16](https://github.com/user-attachments/assets/2fe985f3-7c58-49e0-8b85-cdd276802d40)
 
-![Project Screenshot](link-to-screenshot.png)
 
-[Watch the Demo Video](link-to-video)
 
 ## Features
 
@@ -46,4 +44,4 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/username/repo-name.git](https://github.com/priyanjanjb/ThesisWebPage.git
