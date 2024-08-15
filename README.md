@@ -9,10 +9,6 @@ This project is a web application used to demonstrate my research on detecting c
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Project Description
 
@@ -37,6 +33,6 @@ This web application is designed to demonstrate my research project, which explo
 
 To set up the project locally, follow these steps:
 
-1. **Clone the repository:**
+**Clone the repository:**
    ```bash
    git clone https://github.com/username/repo-name.git](https://github.com/priyanjanjb/ThesisWebPage.git
